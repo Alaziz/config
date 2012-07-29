@@ -1,0 +1,4 @@
+set disablesites=mail.google.com, reader.google.com, www.google.com/reader
+set enable_vrome_key=<M-z>
+
+set qm_e=chrome://extensions
